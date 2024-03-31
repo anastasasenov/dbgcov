@@ -35,7 +35,7 @@ command script import <path>/dbgcov.py
 ```
 
 
-## Inspired
+## Inspired by
 
 gcov - coverage testing tool
 
